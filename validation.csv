@@ -1,0 +1,16 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+123.jpg,318,159,bullseye,227,87,240,97
+13.jpg,992,558,crack,333,136,652,319
+14.jpg,225,170,crack,58,20,157,140
+18.jpg,259,194,bullseye,98,42,154,97
+18.jpg,259,194,scratch,9,103,101,160
+20.jpg,479,359,bullseye,97,33,371,237
+21.jpg,1024,680,bullseye,453,244,665,370
+23.jpg,830,415,bullseye,446,88,754,367
+26.jpg,275,183,bullseye,116,68,165,109
+27.jpg,2331,1800,bullseye,867,366,1942,1183
+28.jpg,275,183,bullseye,114,77,155,110
+32.jpg,275,183,bullseye,128,74,169,103
+32.jpg,275,183,bullseye,116,53,131,66
+32.jpg,275,183,bullseye,194,117,207,129
+33.jpg,273,185,bullseye,55,29,176,110
